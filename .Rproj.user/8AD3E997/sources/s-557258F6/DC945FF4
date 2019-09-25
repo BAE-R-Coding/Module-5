@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569412436456.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC945FF4",
+    "lastKnownWriteTime" : 7503032207266363699,
+    "last_content_update" : 1569412436456,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "32873FEF",
+        "caption" : "shrub_volume_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=shrub_volume_data&cache_key=32873FEF",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "expression" : "shrub_volume_data",
+        "object" : "shrub_volume_data",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

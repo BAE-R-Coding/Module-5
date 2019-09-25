@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569415113154.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2607048915",
+    "id" : "53F239D3",
+    "lastKnownWriteTime" : 1569411533,
+    "last_content_update" : 1569411533,
+    "path" : "~/Documents/Postdoc/Other/R Class/Module 5/Module-5/data/surveys.csv",
+    "project_path" : "data/surveys.csv",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
