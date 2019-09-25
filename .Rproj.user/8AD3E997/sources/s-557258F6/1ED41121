@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569412340011.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1ED41121",
+    "lastKnownWriteTime" : 1569411533,
+    "last_content_update" : 1569411533,
+    "path" : "~/Documents/Postdoc/Other/R Class/Module 5/Module-5/data/shrub-volume-data.csv",
+    "project_path" : "data/shrub-volume-data.csv",
+    "properties" : {
+        "cursorPosition" : "0,3",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
